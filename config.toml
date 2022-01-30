@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://shimakaze-git.github.io/"
+title = "shimakaze_soft profile"
+theme = "hugo-theme-notrack"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+mainSections = ["posts"]
+
