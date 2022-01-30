@@ -24,7 +24,9 @@ class User:
 主にPythonを好んで開発を行っており、仕事でもPythonでのWEBアプリケーション周りを中心に開発を行っています。
 インフラ業務なども兼任しており、現在はGCP周りなどを触っています。
 
-趣味ではNode.jsやGolangなどもいじっています。
+最近はバックエンド側でNode.jsを仕事でも使い始めており、フロントでもNuxt.jsを使用しています。。
+
+趣味ではGolangなどもいじっています。
 
 ドメイン駆動設計(DDD)周りの技術に非常に興味があり、実際に仕事でも実践していますが、まだまだ勉強中です。非常に整理されたコードを書くことに一番の興味があり、そこに非常に拘っています。
 
@@ -37,11 +39,11 @@ class User:
 - 格闘技(ブラジリアン柔術が好きです)
 - 地政学(このジャンルに近い本を読むのにハマってる)
 
-
 ## Skills
-- Back-end Web developer
+
+- BackEnd Web developer
 - Python(Django, Falcon) Engineer :snake:
-- PHP(Laravel)/Go/Node
+- PHP(Laravel)/Go/Node.js
 - Infrastructure (GCP, AWS, On-premises)
 - Google Cloud Platform (Cloud)
   - Google Compute Engine
@@ -51,13 +53,19 @@ class User:
   - Cloud SQL
   - Cloud Functions (Firebase)
   - Stackdriver logging
+- Amazon Web Service (Cloud)
+  - EC2
+  - ECS
+  - S3
+  - DynamoDB
 
 - MySQL/PostgreSQL
 - Vagrant/Docker
-- javascript/Vue.js
+- javascript/Vue.js/Nuxt.js
 
 ## Original
 
+- [django-jp-birthday](https://pypi.org/project/django-jp-birthday/)
 - [falcon-vue](https://pypi.org/project/falcon-vue)
 - [jpndlpy](https://pypi.org/project/jpndlpy/)
 
@@ -91,6 +99,7 @@ PyConJP 2019
 
 - GitHub https://github.com/shimakaze-git [:link:](https://github.com/shimakaze-git)
 - Twitter https://twitter.com/shimakaze_soft [:link:](https://twitter.com/shimakaze_soft)
+- Zenn.Dev https://zenn.dev/shimakaze_soft [:link:](https://zenn.dev/shimakaze_soft)
 - Medium https://medium.com/@shimakaze.soft [:link:](https://medium.com/@shimakaze.soft)
 - Note https://note.mu/shimakaze_soft [:link:](https://note.mu/shimakaze_soft)
 - Slide https://speakerdeck.com/shimakaze_soft [:link:](https://speakerdeck.com/shimakaze_soft)
