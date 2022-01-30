@@ -6,8 +6,8 @@ hasCJKLanguage = true
 mainSections = ["posts"]
 
 # theme = "athena"
-# theme = "hugo-theme-notrack"
-theme = "hugo-clarity"
+theme = "hugo-theme-notrack"
+# theme = "hugo-clarity"
 
 [params]
 description = "shimakaze_softのプロフィールページ"
