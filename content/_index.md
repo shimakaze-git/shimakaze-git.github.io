@@ -6,41 +6,35 @@ description: "shimakaze_softのプロフィールページ"
 
 # しまかぜ soft(shimakaze_soft) Profile
 
-```python
-class User:
-    def __init__(self):
-        self.name = 'shimakaze_soft'
-        self.jp_name = 'しまかぜsoft'
-        self.job = ['BackEnd Engineer', 'Infrastructure']
-        self.language = {'Python': 200, 'PHP': 50, 'Go': 60, 'js': 80}
-        self.community = ['DjangoCongressJP', 'DjangoGirls']
-
-```
+![profile_image](https://avatars.githubusercontent.com/u/26370659?v=4)
 
 ## お前、誰よ Who am I?
 
 はじめまして！主に WEB 系のバックエンドエンジニアをしている`shimakaze_soft`(本名ではない)です。
+現在はSaas系のスタートアップでエンジニをしています。
 
-主に Python を好んで開発を行っており、仕事でも Python での WEB アプリケーション周りを中心に開発を行っています。
-インフラ業務なども兼任しており、現在は Azure 周りなどを触っています。それ以前は GCP や AWS などでも使用していました。
+Python を好んで開発を行っており、仕事でも Python での WEB アプリケーション周りを中心に開発を行っています。主に FastAPI や Django を使用しています。
 
-最近はバックエンド側で Node.js を仕事でも使い始めており、フロントでも Nuxt.js/Next.js を使用しています。
+インフラ業務なども兼任しており、現在は AWS 周りなどを触っています。それ以前は GCP や Azure などでも使用していました。
 
-趣味では Golang などもいじっています。
+以前はバックエンド側で Node.js を仕事でも使い始めており、フロントでも Nuxt.js/Next.js を使用しています。
+
+趣味では Golang や Rust などもいじっています。
 
 ドメイン駆動設計(DDD)周りの技術に非常に興味があり、実際に仕事でも実践していますが、まだまだ勉強中です。非常に整理されたコードを書くことに一番の興味があり、そこに非常に拘っています。
 
 インフラ系の業務も兼務しているため、全体的なアーキテクトを設計したりすることが好きです。
 
-最近は実証実験も兼ねたブロックチェーン系の分野でもあるスマートコントラクトを使用した Web サービスの開発も行っています。
-そちらでは Solidity を主に使用していますが、Pythonic な開発もしたいという思いから Viper の使用も検討しています。
+以前は実証実験も兼ねたブロックチェーン系の分野でもあるスマートコントラクトを使用した Web サービスの開発も行っています。
+そちらでは Solidity を主に使用していますが、Pythonic な開発もしたいという思いから Viper の使用も検討していました。
 
 ### Hobby
 
 - プログラミング
-- サッカー観戦 (FC バルセロナ、マンチェスター・シティなどが好き)
+- サッカー (FC バルセロナ、マンチェスター・シティなどが好き)
 - 格闘技 (ブラジリアン柔術などをやってました)
 - 地政学 (このジャンルに近い本を読むのにハマってる)
+- 動物 (犬と遊ぶのが好き)
 
 ## Skills
 
@@ -68,6 +62,10 @@ class User:
   - ECS
   - S3
   - DynamoDB
+  - SES
+  - RDS
+  - API Gateway
+  - Lambda
 
 - Azure (Cloud)
 
@@ -82,6 +80,7 @@ class User:
 
   - Vue.js/Nuxt.js
   - React.js/Next.js
+  - Typescript
 
 - SmartContract
   - Solidity
